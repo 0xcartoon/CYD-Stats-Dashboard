@@ -1,15 +1,9 @@
 # CYD Dashboard
 
 <p align="center">
-  <img src="https://ssd-cdn.nest.rip/uploads/021b34bb-d555-409c-87b3-7a00070a8921.png" width="800">
-</p>
-
-<p align="center">
-  <img src="https://ssd-cdn.nest.rip/uploads/3aa80b32-6520-4ee8-96be-565f51361bab.png" width="800">
-</p>
-
-<p align="center">
-  <img src="https://ssd-cdn.nest.rip/uploads/5c82ed1c-2aef-4def-9a31-f192264a2cb7.png" width="800">
+  <img src="https://ssd-cdn.nest.rip/uploads/021b34bb-d555-409c-87b3-7a00070a8921.png" width="260">
+  <img src="https://ssd-cdn.nest.rip/uploads/3aa80b32-6520-4ee8-96be-565f51361bab.png" width="260">
+  <img src="https://ssd-cdn.nest.rip/uploads/5c82ed1c-2aef-4def-9a31-f192264a2cb7.png" width="260">
 </p>
 
 A full-featured system monitor dashboard for the **ESP32-2432S028** (Cheap Yellow Display). Pulls live stats from your PC over WiFi and displays them across 6 touch-navigable pages with animated UI, Spotify controls, Telegram notifications, and a settings menu.
