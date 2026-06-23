@@ -214,4 +214,13 @@ Print raw touch values from `touch.getPoint()` over Serial to dial in the min/ma
 
 ## License
 
-MIT — do whatever, attribution appreciated.
+MIT — do whatever but please credit me. attribution appreciated.
+---
+
+## 👤 Creator
+
+<p align="center">
+  <a href="https://discord.com/users/433351598094155787">
+    <img src="https://ssd-cdn.nest.rip/uploads/542d46b7-2c35-44f6-be60-370acaa1c664.png" width="250">
+  </a>
+</p>
