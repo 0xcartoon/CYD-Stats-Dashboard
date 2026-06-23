@@ -1,3 +1,5 @@
+![CYD Dashboard](https://ssd-cdn.nest.rip/uploads/021b34bb-d555-409c-87b3-7a00070a8921.png)
+
 # CYD Dashboard
 
 A full-featured system monitor dashboard for the **ESP32-2432S028** (Cheap Yellow Display). Pulls live stats from your PC over WiFi and displays them across 6 touch-navigable pages with animated UI, Spotify controls, Telegram notifications, and a settings menu.
